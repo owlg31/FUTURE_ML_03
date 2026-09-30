@@ -1,0 +1,154 @@
+{
+  "required_skills_detected": [
+    "aws",
+    "data visualization",
+    "docker",
+    "git",
+    "machine learning",
+    "nlp",
+    "pandas",
+    "python",
+    "scikit-learn",
+    "sql",
+    "statistics",
+    "tableau",
+    "tensorflow"
+  ],
+  "scoring": {
+    "skill_coverage_weight": 0.55,
+    "text_similarity_weight": 0.45
+  },
+  "candidates": [
+    {
+      "rank": 1,
+      "candidate_name": "Ananya Rao",
+      "final_score": 58.0,
+      "skill_coverage_score": 88.4,
+      "text_similarity_score": 20.8,
+      "matched_skills": [
+        "aws",
+        "data visualization",
+        "git",
+        "machine learning",
+        "nlp",
+        "pandas",
+        "python",
+        "scikit-learn",
+        "sql",
+        "statistics",
+        "tableau"
+      ],
+      "missing_required_skills": [
+        "docker",
+        "tensorflow"
+      ],
+      "additional_skills": []
+    },
+    {
+      "rank": 2,
+      "candidate_name": "Arjun Patel",
+      "final_score": 43.0,
+      "skill_coverage_score": 63.6,
+      "text_similarity_score": 17.7,
+      "matched_skills": [
+        "data visualization",
+        "git",
+        "machine learning",
+        "nlp",
+        "python",
+        "scikit-learn",
+        "statistics",
+        "tensorflow"
+      ],
+      "missing_required_skills": [
+        "aws",
+        "docker",
+        "pandas",
+        "sql",
+        "tableau"
+      ],
+      "additional_skills": []
+    },
+    {
+      "rank": 3,
+      "candidate_name": "Vikram Shah",
+      "final_score": 41.6,
+      "skill_coverage_score": 62.4,
+      "text_similarity_score": 16.2,
+      "matched_skills": [
+        "aws",
+        "data visualization",
+        "docker",
+        "git",
+        "machine learning",
+        "python",
+        "sql",
+        "tensorflow"
+      ],
+      "missing_required_skills": [
+        "nlp",
+        "pandas",
+        "scikit-learn",
+        "statistics",
+        "tableau"
+      ],
+      "additional_skills": []
+    },
+    {
+      "rank": 4,
+      "candidate_name": "Meera Iyer",
+      "final_score": 32.4,
+      "skill_coverage_score": 50.9,
+      "text_similarity_score": 9.7,
+      "matched_skills": [
+        "data visualization",
+        "pandas",
+        "python",
+        "sql",
+        "statistics",
+        "tableau"
+      ],
+      "missing_required_skills": [
+        "aws",
+        "docker",
+        "git",
+        "machine learning",
+        "nlp",
+        "scikit-learn",
+        "tensorflow"
+      ],
+      "additional_skills": [
+        "excel"
+      ]
+    },
+    {
+      "rank": 5,
+      "candidate_name": "Sara Khan",
+      "final_score": 10.5,
+      "skill_coverage_score": 17.3,
+      "text_similarity_score": 2.2,
+      "matched_skills": [
+        "aws",
+        "docker",
+        "git"
+      ],
+      "missing_required_skills": [
+        "data visualization",
+        "machine learning",
+        "nlp",
+        "pandas",
+        "python",
+        "scikit-learn",
+        "sql",
+        "statistics",
+        "tableau",
+        "tensorflow"
+      ],
+      "additional_skills": [
+        "java",
+        "javascript",
+        "react"
+      ]
+    }
+  ]
+}

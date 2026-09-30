@@ -1,0 +1,6 @@
+Data Scientist
+
+We are looking for a Data Scientist to build predictive models and translate data into business insight. You will clean and analyze data, develop machine learning pipelines, evaluate models, and communicate findings to stakeholders.
+
+Required skills: Python, SQL, machine learning, statistics, pandas, scikit-learn, data visualization, and Git.
+Preferred skills: NLP, AWS, Docker, Tableau, and TensorFlow.
